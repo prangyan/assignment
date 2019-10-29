@@ -6,3 +6,4 @@ I have used eclipse as my IDE.
 
 You can see the output in console if you run the JsonParse.java file as a java applicaiton or during mvn clean install.
 
+After parsing the JSON file I have retrieved three major attributes from the JSON file. They are SchoolAddress,Schools and FacultyDetails. These three attributes can be used in database schema to retrieve data for futurre use.
